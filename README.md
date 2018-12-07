@@ -1,3 +1,3 @@
-# hello-world
+# Vjezba
 Programi za vježbu i zabavu
-All your base are belong to us
+
