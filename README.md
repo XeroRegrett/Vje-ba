@@ -1,3 +1,3 @@
-# Vjezba
-Programi za vježbu i zabavu
+# Practice
+Just for fun and practice
 
