@@ -1,4 +1,4 @@
-//Program koji pretvara hexa brojeve u decimalne i zapisuje ih u datoteku u tablicu, datoteka je imena brojevi.txt i nalazi se na desktopu
+//Program that converts hex numbers to dec and then writes the results in table and saves it to file brojevi.txt. File is located on desktop
 using System;
 using System.IO;
 using System.Text.RegularExpressions;
